@@ -1,6 +1,7 @@
 language: rust
 rust:
   - 1.26.0
+  - beta
   - nightly
 matrix:
   allow_failures:
