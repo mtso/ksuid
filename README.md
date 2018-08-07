@@ -1,6 +1,4 @@
 [![Build Status](https://travis-ci.org/mtso/ksuid.svg?branch=master)](https://travis-ci.org/mtso/ksuid)
-# [![Version](https://img.shields.io/crates/v/ksuid.svg)](https://crates.io/crates/ksuid)
-# [![Docs](https://docs.rs/ksuid/badge.svg)](https://docs.rs/ksuid)
 
 Ksuid
 =====
